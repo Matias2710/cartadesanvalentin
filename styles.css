@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f9e3e3;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Dancing Script', cursive;
 }
 
 .carta {
@@ -49,6 +49,8 @@ body {
     box-sizing: border-box;
     transition: top 0.5s ease;
     color: #333;
+    font-size: 20px;
+    line-height: 1.5;
 }
 
 .mensaje p {
