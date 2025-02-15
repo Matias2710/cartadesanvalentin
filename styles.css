@@ -86,11 +86,11 @@ body {
     color: #333;
     font-size: 21px;
     line-height: 1.4;
-    text-align: center;
+    text-align: left;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: left;
 }
 
 .mensaje p {
